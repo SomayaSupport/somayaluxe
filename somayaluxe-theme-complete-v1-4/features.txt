@@ -1,0 +1,12 @@
+component-featured-products
+component-fixed-banner
+component-fixed-products
+component-photos-slider
+component-products-slider
+component-parallax-background
+component-random-testimonials
+component-testimonials
+component-square-photos
+component-store-features
+component-youtube
+filters
