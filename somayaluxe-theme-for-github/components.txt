@@ -1,0 +1,7 @@
+home.enhanced-slider
+home.main-links
+home.slider-products-with-header
+home.enhanced-square-banners
+home.brands
+home.custom-testimonials
+home.main-slider
