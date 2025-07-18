@@ -1,0 +1,6 @@
+home.brands
+home.custom-testimonials
+home.enhanced-slider
+home.main-links
+home.main-slider
+home.slider-products-with-header

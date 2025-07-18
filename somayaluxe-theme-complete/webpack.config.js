@@ -1,0 +1,1 @@
+module.exports = { entry: "./src/assets/styles/theme.css", output: { filename: "bundle.js" } }

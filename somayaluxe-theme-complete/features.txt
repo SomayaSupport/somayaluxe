@@ -1,0 +1,4 @@
+component-featured-products
+component-fixed-products
+component-square-photos
+component-testimonials
