@@ -1,0 +1,16 @@
+
+body {
+  font-family: 'Tajawal', sans-serif;
+  background-color: #f9f9f9;
+}
+
+h1, h2, h3 {
+  color: #d0021b;
+}
+
+.product-card {
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  padding: 15px;
+  background: white;
+}

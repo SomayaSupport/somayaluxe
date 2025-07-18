@@ -1,0 +1,46 @@
+{
+  "name": "SomayaLuxe Theme v1.4",
+  "version": "1.4",
+  "styles": [
+    "assets/theme.css"
+  ],
+  "features": [],
+  "components": [
+    {
+      "name": "welcome",
+      "title": "قسم ترحيبي",
+      "icon": "sicon-smile",
+      "path": "home.welcome",
+      "fields": [
+        {
+          "id": "title",
+          "type": "string",
+          "label": "عنوان القسم",
+          "required": true
+        },
+        {
+          "id": "subtitle",
+          "type": "string",
+          "label": "وصف القسم",
+          "format": "textarea"
+        }
+      ]
+    }
+  ],
+  "settings": [
+    {
+      "type": "boolean",
+      "id": "topnav_is_dark",
+      "label": "شريط علوي داكن",
+      "format": "switch",
+      "selected": true
+    },
+    {
+      "type": "boolean",
+      "id": "important_links",
+      "label": "روابط مهمة في الهيدر",
+      "format": "switch",
+      "selected": false
+    }
+  ]
+}
